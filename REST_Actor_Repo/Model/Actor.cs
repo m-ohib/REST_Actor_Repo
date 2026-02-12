@@ -4,8 +4,8 @@
     {
         public string? Name  {get;set;}
         public int Id { get; set; }
-        public string? BirthYear { get; set; }
-
+        public int BirthYear { get; set; }
+        
         override public string ToString() { return $"Actor: {Name}, Id: {Id}, BirthYear: {BirthYear}"; }
 
 
