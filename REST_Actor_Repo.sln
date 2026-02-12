@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REST_Actor_Repo", "REST_Actor_Repo\REST_Actor_Repo.csproj", "{0F3DEA68-513A-4AA5-BDD3-50516E7559C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F3DEA68-513A-4AA5-BDD3-50516E7559C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3DEA68-513A-4AA5-BDD3-50516E7559C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3DEA68-513A-4AA5-BDD3-50516E7559C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3DEA68-513A-4AA5-BDD3-50516E7559C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52F8FD8B-25AC-4CC1-86E5-B134291A8B58}
+	EndGlobalSection
+EndGlobal

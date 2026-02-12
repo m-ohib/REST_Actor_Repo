@@ -1,0 +1,6 @@
+@REST_Actor_Repo_HostAddress = http://localhost:5203
+
+GET {{REST_Actor_Repo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
